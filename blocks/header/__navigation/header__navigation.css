@@ -1,0 +1,6 @@
+.header__navigation{
+    display: flex;
+    align-items: center;
+    padding: 93px 165px 0;
+    position: relative;
+}

@@ -1,0 +1,8 @@
+.footer__back{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    bottom: 70px;
+    right: 180px;
+    text-decoration: none;
+}
