@@ -1,0 +1,9 @@
+@import url(./_title/header__text_title.css);
+@import url(./_subtitle/header__text_subtitle.css);
+@import url(./_link/header__text_link.css);
+.header__text{
+    padding-left: 165px;
+    position: relative;
+    padding-top: 145px;
+    
+}
