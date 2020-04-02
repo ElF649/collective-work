@@ -4,7 +4,7 @@
 @import url('./__info/portfolio__info.css');
 @import url('./__text/portfolio__text.css');
 @import url('./__nav/portfolio__nav.css');
-@import url('./__direction/portfolio__direction.css');
+@import url('./__link/portfolio__link.css');
 
 .portfolio {
     width: 1110px;

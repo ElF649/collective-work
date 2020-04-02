@@ -1,0 +1,8 @@
+.portfolio__link {
+    margin-right: 14px;
+}
+
+.portfolio__link:last-of-type {
+    margin-right: 0;
+}
+
