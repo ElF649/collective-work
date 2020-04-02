@@ -1,0 +1,23 @@
+.skills__list-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+.skills__list-row:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width : 767px) {
+    .skills__list-row:nth-child(1n) {        
+        margin-bottom: 10px;
+    }
+    .skills__list-row:nth-child(2n) {        
+        margin-bottom: 20px;
+    }
+    
+    .skills__list-row:last-child {
+        margin-bottom: 0;
+    }
+}

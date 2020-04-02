@@ -1,0 +1,16 @@
+.skills__article {
+    margin: 0;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 50px;
+
+}
+
+@media screen and (max-width : 767px) {
+    .skills__article {
+        font-size: 12px;
+        line-height: 25px;
+        margin-right: 16px;
+    }
+}

@@ -1,0 +1,18 @@
+.skills__photo {
+   margin-right: 50px;
+}
+
+@media screen and (max-width : 1023px) {
+    .skills__photo {        
+        margin-bottom: 50px;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width : 767px) {
+    .skills__photo {
+        height: 218px;
+        width: 244px;
+        margin-bottom: 25px;
+    }
+}

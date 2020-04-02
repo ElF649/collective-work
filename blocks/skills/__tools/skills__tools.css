@@ -1,0 +1,28 @@
+.skills__tools {
+    margin: 0;
+    font-size: 18px;
+    line-height: 25px;
+    width: 446px;
+}
+
+
+
+@media screen and (max-width : 1150px) {
+    .skills__tools {
+        width: 400px
+    }
+}
+
+@media screen and (max-width : 1080px) {
+    .skills__tools {
+        width: 350px
+    }
+}
+
+@media screen and (max-width : 767px) {
+    .skills__tools {
+        width: 210px;
+        font-size: 12px;
+        line-height: 25px;
+    }
+}
