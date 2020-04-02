@@ -1,5 +1,10 @@
+@import url('./__direction/portfolio__link__direction_left.css');
+@import url('./__direction/portfolio__link__direction_right.css');
+
 .portfolio__link {
     margin-right: 14px;
+    width: 24px;
+    height: 24px;
 }
 
 .portfolio__link:last-of-type {

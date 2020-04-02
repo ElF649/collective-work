@@ -1,0 +1,6 @@
+.portfolio__link__direction_right {
+    background-image: url('../../../../images/right.svg');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
