@@ -1,0 +1,6 @@
+.portfolio__link__direction_left {
+    background-image: url('../../../../images/left.svg');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
