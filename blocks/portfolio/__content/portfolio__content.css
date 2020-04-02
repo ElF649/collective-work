@@ -1,0 +1,13 @@
+.portfolio__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1110px) {
+    .portfolio__content {
+        flex-direction: column;
+        align-content: center;
+    }
+}
+

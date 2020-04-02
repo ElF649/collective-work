@@ -1,0 +1,9 @@
+.portfolio__nav {
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 1110px) {
+    .portfolio__nav {
+        display: none;
+    }
+}

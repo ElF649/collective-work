@@ -1,0 +1,13 @@
+.portfolio__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+}
+
+@media screen and (max-width: 1110px) {
+    .portfolio__info {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}

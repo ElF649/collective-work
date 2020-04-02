@@ -1,0 +1,7 @@
+.photo-grid__item__num_four {
+    background-image: url('../../../../images/4.jpg');
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 6; 
+}
