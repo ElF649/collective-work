@@ -1,0 +1,11 @@
+.skills__list-title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 65px;
+}
+
+@media screen and (max-width : 767px) {
+    .skills__list-title {
+        margin-bottom: 35px;
+    }
+}

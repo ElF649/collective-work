@@ -1,0 +1,26 @@
+.skills__progress-bar {
+    width: 446px;
+    height: 24px;
+    background-color: #F5D6AB;
+}
+
+ 
+
+ @media screen and (max-width : 1150px) {
+    .skills__progress-bar {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width : 1080px) {
+    .skills__progress-bar {
+        width: 350px;
+    }
+} 
+
+@media screen and (max-width : 767px) {
+    .skills__progress-bar {
+        width: 210px;
+        height: 18px;
+    }
+}

@@ -1,0 +1,30 @@
+@import url('./__article/skills__article.css');
+@import url('./__container/skills__container.css');
+@import url('./__filler/skills__filler.css');
+@import url('./__list-row/skills__list-row.css');
+@import url('./__list-title/skills__list-title.css');
+@import url('./__list/skills__list.css');
+@import url('./__photo/skills__photo.css');
+@import url('./__progress-bar/skills__progress-bar.css');
+@import url('./__title/skills__title.css');
+@import url('./__tools/skills__tools.css');
+
+.skills {
+    margin: auto;
+    background-color: #FFFAF2;
+    padding-top: 93px;
+    padding-bottom: 145px;
+}
+
+@media screen and (max-width : 1023px) {
+    .skills {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
+@media screen and (max-width : 767px) {
+    .skills {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+}
