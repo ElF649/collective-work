@@ -1,0 +1,24 @@
+@import url('./__item/photo-grid__item.css');
+@import url('./__item/__num/photo-grid__item__num_one.css');
+@import url('./__item/__num/photo-grid__item__num_two.css');
+@import url('./__item/__num/photo-grid__item__num_three.css');
+@import url('./__item/__num/photo-grid__item__num_four.css');
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: 350px 255px;
+    grid-template-rows: repeat(5, 59px);
+    gap: 26px 30px;
+    width: 635px;
+}
+
+@media screen and (max-width: 635px) {
+    .photo-grid {
+        grid-template-columns: 170px 123px;
+        grid-template-rows: repeat(5, 28.5px);
+        gap: 13px 15px;
+        width: 375px;
+        padding: 0 33.5px;
+        box-sizing: border-box;
+    }
+}
