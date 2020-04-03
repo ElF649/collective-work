@@ -3,4 +3,5 @@
     justify-content: space-between;
     max-width: 928px;
     margin-top: 51px;
+    flex-wrap: wrap;
 }

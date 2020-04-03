@@ -7,3 +7,24 @@
     padding-top: 26px;
     padding-bottom: 106px;
 }
+
+@media screen and (max-width : 1024px) {
+    .header__text_subtitle{
+        padding-bottom: 70px;
+
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .header__text_subtitle{
+        font-size: 13px;
+        line-height: 16px;
+    }
+}
+
+@media screen and (max-width : 500px) {
+    .header__text_subtitle{
+        padding-bottom: 41px;
+        padding-top: 13px;
+    }
+}

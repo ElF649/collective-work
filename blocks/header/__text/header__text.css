@@ -6,3 +6,17 @@
     padding-top: 145px;
     
 }
+
+@media screen and (max-width : 1370px) {
+    .header__text{
+        padding-top: 100px;
+        padding-left: 0;
+    
+    }
+}
+
+@media screen and (max-width : 500px) {
+    .header__text{
+        padding-top: 50px;
+    }
+}

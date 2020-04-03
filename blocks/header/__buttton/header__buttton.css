@@ -1,0 +1,24 @@
+
+.header__buttton{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 50px;
+    left: 34px;
+    text-decoration: none;
+    background-image: url('../../../images/GlobalNavButton\(E700\).svg');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: none;
+}
+
+.header__buttton:hover {
+    opacity: 0.5;
+}
+
+@media screen and (max-width : 600px) {
+    .header__buttton{
+        display: block;
+    }
+}

@@ -3,4 +3,11 @@
     line-height: 29px;
     font-weight: bold;
     z-index: 1;
+    display: block;
+}
+
+@media screen and (max-width : 1370px) {
+    .header__logo{
+        padding-top: 50px;       
+    }
 }

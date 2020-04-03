@@ -4,3 +4,12 @@
     padding: 93px 165px 0;
     position: relative;
 }
+
+@media screen and (max-width : 1370px) {
+    .header__navigation{
+        display: inline;
+        padding: 0;
+        padding-top: 50px;
+    }
+}
+

@@ -10,3 +10,12 @@
     padding: 93px 165px 189px;
     position: relative;
 }
+
+@media screen and (max-width : 768px) {
+    .footer{
+        padding: 43px 106px 50px;
+        padding-left: 42px;
+        position: relative;
+        height: 360px;
+    }
+}

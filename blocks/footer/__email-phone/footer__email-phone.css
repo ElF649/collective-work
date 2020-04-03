@@ -5,3 +5,10 @@
     font-style: normal;
     padding: 0;
 }
+
+@media screen and (max-width : 768px) {
+    .footer__email-phone{
+        font-size: 14px;
+        line-height: 17px;
+    }
+}

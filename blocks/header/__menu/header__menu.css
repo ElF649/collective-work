@@ -4,3 +4,16 @@
     justify-content: space-between;
     margin-left: 464px;
 }
+
+@media screen and (max-width : 1370px) {
+    .header__menu{
+        margin-left: 0;
+        padding-top: 50px;   
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .header__menu{
+        display: none;       
+    }
+}

@@ -5,12 +5,14 @@
 @import url('./__link/header__link.css');
 @import url('./__text/header__text.css');
 @import url('./__main-link/header__main-link.css');
+@import url('./__buttton/header__buttton.css');
 
 .header{
     background-image: url(../../images/header_bg.jpg);
     background-size: cover;
     color: white;
     min-height: 768px;
+    max-width: 1440px;
     position: relative;
 }
 
@@ -23,4 +25,30 @@
     left: 0; 
     z-index: 0;
     background: rgba(198, 108, 73, 0.3);
+}
+
+@media screen and (max-width : 1370px) {
+    .header{
+        text-align: center;
+        margin: 0 auto;      
+    }
+}
+
+@media screen and (max-width : 1024px) {
+    .header{
+        min-height: 500px;
+
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .header{
+        min-height: 400px;
+    }
+}
+
+@media screen and (max-width : 500px) {
+    .header{
+        min-height: 275px;
+    }
 }
