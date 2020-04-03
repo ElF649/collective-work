@@ -1,8 +1,16 @@
-.footer__back{
+.footer__back {
     width: 24px;
     height: 24px;
     position: absolute;
     bottom: 70px;
     right: 180px;
     text-decoration: none;
+    background-image: url('../../../images/up.svg');
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.footer__back:hover {
+    opacity: 0.5;
 }
