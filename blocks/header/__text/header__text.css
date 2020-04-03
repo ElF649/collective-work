@@ -10,8 +10,7 @@
 @media screen and (max-width : 1370px) {
     .header__text{
         padding-top: 100px;
-        padding-left: 0;
-    
+        padding-left: 0; 
     }
 }
 

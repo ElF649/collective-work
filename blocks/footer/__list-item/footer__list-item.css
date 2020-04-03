@@ -1,4 +1,8 @@
 .footer__list-item{
     list-style: none;
-    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.footer__list-item:last-of-type{
+    padding: 0;
 }

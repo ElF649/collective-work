@@ -12,3 +12,9 @@
         line-height: 17px;
     }
 }
+
+@media screen and (max-width : 375px) {
+    .footer__email-phone{
+        margin: 0;
+    }
+}

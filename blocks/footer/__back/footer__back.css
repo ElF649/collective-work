@@ -19,15 +19,12 @@
     .footer__back{
         bottom: 35px;
         right: 90px;
-        
-
     }
 }
 
 @media screen and (max-width : 400px) {
     .footer__back{
-        bottom: 32px;
-        right: 58px;
-
+        bottom: 58px;
+        right: 32px;
     }
 }

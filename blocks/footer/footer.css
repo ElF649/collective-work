@@ -19,3 +19,12 @@
         height: 360px;
     }
 }
+
+@media screen and (max-width : 375px) {
+    .footer{
+        padding: 26px 106px 50px;
+        padding-left: 42px;
+        position: relative;
+        height: 360px;
+    }
+}

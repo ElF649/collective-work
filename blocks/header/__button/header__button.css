@@ -1,9 +1,9 @@
 
-.header__buttton{
+.header__button{
     width: 24px;
     height: 24px;
     position: absolute;
-    top: 50px;
+    top: 36px;
     left: 34px;
     text-decoration: none;
     background-image: url('../../../images/GlobalNavButton\(E700\).svg');
@@ -11,14 +11,15 @@
     background-repeat: no-repeat;
     background-position: center;
     display: none;
+    z-index: 1;
 }
 
-.header__buttton:hover {
+.header__button:hover {
     opacity: 0.5;
 }
 
 @media screen and (max-width : 600px) {
-    .header__buttton{
+    .header__button{
         display: block;
     }
 }

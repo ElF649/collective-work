@@ -3,9 +3,10 @@
 @import url('./__logo/header__logo.css');
 @import url('./__list-item/header__list-item.css');
 @import url('./__link/header__link.css');
+@import url('./__link/_bold/header__link_bold.css');
 @import url('./__text/header__text.css');
 @import url('./__main-link/header__main-link.css');
-@import url('./__buttton/header__buttton.css');
+@import url('./__button/header__button.css');
 
 .header{
     background-image: url(../../images/header_bg.jpg);
