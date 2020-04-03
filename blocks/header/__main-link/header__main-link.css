@@ -1,7 +1,11 @@
-.header__text_link{
+.header__main-link {
     font-size: 18px;
     line-height: 22px;
     font-weight: normal;
     font-style: normal;
     color: white;
+}
+
+.header__main-link:hover {
+    opacity: 0.5;   
 }
