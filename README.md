@@ -3,9 +3,8 @@
 
 produced by 
   - Nikita D.
-  - Smirnov A.
   - Max Sh.
-
+  - Smirnov A.
   
  **LINK**
 
