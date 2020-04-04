@@ -7,6 +7,12 @@
 
 @media screen and (max-width: 1110px) {
     .portfolio__info {
+        width: calc(100% - 650px);
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .portfolio__info {
         width: 100%;
         margin-bottom: 15px;
     }

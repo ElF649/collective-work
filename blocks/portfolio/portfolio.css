@@ -7,19 +7,17 @@
 @import url('./__link/portfolio__link.css');
 
 .portfolio {
-    width: 1110px;
     margin: auto;
     padding: 93px 0 145px;
 }
 
-@media screen and (max-width: 1110px) {
+@media screen and (max-width: 1023px) {
     .portfolio {
-        width: 635px;
-        padding: 25px 0 23.5px;
+        padding: 50px 0 47px;
     }
 }
 
-@media screen and (max-width: 635px) {
+@media screen and (max-width: 767px) {
     .portfolio {
         width: 375px;
     }
