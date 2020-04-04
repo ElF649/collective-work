@@ -1,9 +1,9 @@
-# Collective-Work
+# collective-work
 
-**collective-work** produced by 
-- Nikita D.
-- Max Sh.
-- Smirnov A.
-
-## Ссылка на страницу
+  **COLLECTIVE-WORK** produced by 
+  - Nikita D.
+  - Max Sh.
+  - Smirnov A.
+  
+  **LINK**
 
