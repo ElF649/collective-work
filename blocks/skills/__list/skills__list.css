@@ -3,6 +3,8 @@
     list-style-type: none;
     margin: 0;
     flex-basis: 625px;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -10,6 +12,6 @@
 @media screen and (max-width : 1023px) {
     .skills__list {
         flex-basis: auto;
+        flex-direction: column-reverse;
     }
 }
-

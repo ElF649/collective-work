@@ -8,6 +8,7 @@
 @import url('./__progress-bar/skills__progress-bar.css');
 @import url('./__title/skills__title.css');
 @import url('./__tools/skills__tools.css');
+@import url('./__list-block/skills__list-block.css');
 
 .skills {
     margin: auto;
