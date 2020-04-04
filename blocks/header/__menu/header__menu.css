@@ -3,12 +3,14 @@
     display: flex;
     justify-content: space-between;
     margin-left: 464px;
+    padding: 0;
 }
 
 @media screen and (max-width : 1370px) {
     .header__menu{
         margin-left: 0;
-        padding-top: 50px;   
+        padding-top: 50px;
+        justify-content: center;   
     }
 }
 
