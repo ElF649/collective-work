@@ -1,4 +1,4 @@
-# collective-work
+# Collective-Work
 
 **collective-work** produced by 
 - Nikita D.
