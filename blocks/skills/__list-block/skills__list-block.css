@@ -1,0 +1,17 @@
+.skills__list-block {
+    margin-bottom: 20px;
+}
+
+.skills__list-block:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width : 1023px) {
+    .skills__list-block:first-child {
+        margin-bottom: 0;
+    }
+    
+    .skills__list-block:last-child {
+        margin-bottom: 20px;
+    }
+}
