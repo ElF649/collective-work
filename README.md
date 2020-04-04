@@ -1,7 +1,7 @@
 # Collective-Work
 
 
-**COLLECTIVE-WORK** produced by 
+produced by 
   - Nikita D.
   - Max Sh.
   - Smirnov A.
