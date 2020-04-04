@@ -9,10 +9,25 @@
 .portfolio {
     margin: auto;
     padding: 93px 0 145px;
+    width: calc(100% - 165px * 2);
+    max-width: 1110px;
+}
+
+@media screen and (max-width : 1439px) {
+    .portfolio {
+        width: calc(100% - 100px * 2);
+    }
+}
+
+@media screen and (max-width : 1280px) {
+    .portfolio {        
+        width: calc(100% - 50px * 2);
+    }
 }
 
 @media screen and (max-width: 1023px) {
     .portfolio {
+        width: 635px;
         padding: 50px 0 47px;
     }
 }
@@ -20,5 +35,6 @@
 @media screen and (max-width: 767px) {
     .portfolio {
         width: 375px;
+        padding: 25px 0 23.5px;
     }
 }
