@@ -1,23 +1,16 @@
 .skills__list-row {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.skills__list-row:first-child {
     margin-bottom: 20px;
 }
 
 
-.skills__list-row:last-child {
-    margin-bottom: 0;
-}
-
 @media screen and (max-width : 767px) {
-    .skills__list-row:nth-child(1n) {        
+    .skills__list-row:first-child {
         margin-bottom: 10px;
-    }
-    .skills__list-row:nth-child(2n) {        
-        margin-bottom: 20px;
-    }
-    
-    .skills__list-row:last-child {
-        margin-bottom: 0;
     }
 }
