@@ -1,7 +1,6 @@
 # Collective-Work
  **LINK**
- 
- produced by 
+ produced by
   - Nikita D.
   - Max Sh.
   - Smirnov A.
