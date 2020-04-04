@@ -1,6 +1,6 @@
 .skills__container {
     margin: auto;
-    max-width: 1107px;
+    max-width: 1110px;
     display: flex;
     justify-content: space-between;
     width: calc(100% - 165px * 2);
