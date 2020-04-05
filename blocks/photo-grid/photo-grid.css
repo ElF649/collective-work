@@ -10,6 +10,7 @@
     grid-template-rows: repeat(5, 59px);
     gap: 26px 30px;
     width: 635px;
+    
 }
 
 @media screen and (max-width: 767px) {
@@ -17,6 +18,6 @@
         grid-template-columns: 170px 123px;
         grid-template-rows: repeat(5, 28.5px);
         gap: 13px 15px;
-        
+        width: 310px;
     }
 }
