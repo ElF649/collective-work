@@ -12,19 +12,11 @@
     width: 635px;
 }
 
-@media screen and (max-width: 1280px) {
-    .photo-grid {
-        gap: 19.5px 22.5px;
-    }
-}
-
 @media screen and (max-width: 767px) {
     .photo-grid {
         grid-template-columns: 170px 123px;
         grid-template-rows: repeat(5, 28.5px);
         gap: 13px 15px;
-        width: 375px;
-        padding: 0 33.5px;
-        box-sizing: border-box;
+        
     }
 }
