@@ -10,6 +10,7 @@
 
 .header__link:hover {
     opacity: 0.5;
+    transition: linear 0.4s;
 }
 
 @media screen and (max-width : 600px) {

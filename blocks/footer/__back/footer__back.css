@@ -13,6 +13,7 @@
 
 .footer__back:hover {
     opacity: 0.5;
+    transition: linear 0.4s;
 }
 
 @media screen and (max-width : 768px) {
